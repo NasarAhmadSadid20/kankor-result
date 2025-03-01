@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  height: 100vh;
+  height: 99vh;
   background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
@@ -175,7 +175,7 @@ body {
 
 }
 .Total{
-  margin-top: 10px;
+  margin-top: 11px;
 }
 
 
@@ -185,7 +185,7 @@ body {
 @media (max-width: 650px) {
   .main {
     flex-direction: column;
-    width: 100%;
+    width: 99%;
     height: 100%;
     border-radius:  0 0 0 0;
   }
