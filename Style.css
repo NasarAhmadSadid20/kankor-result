@@ -2,13 +2,13 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  height: 99vh;
+  height: 100vh;
   background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: Google Sans Medium;
-  background-color: rgb(180, 214, 241);
+  background-color: rgb(182, 214, 241);
 }
 
 * {
